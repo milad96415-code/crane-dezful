@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://milad96415-code.github.io/crane-dezful/sitemap.xml
